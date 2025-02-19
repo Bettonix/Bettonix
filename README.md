@@ -36,4 +36,3 @@ A passionate backend developer from Brazil !
         <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/>
     </a>
 </p>
-width="40" height="40"/> </a> </p>
